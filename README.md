@@ -33,4 +33,5 @@ O dashboard foi gerado pelo Claude (Claude Sonnet 5.5), no chat do claude.ai, qu
 
 
 **Endereço publicado**
-[Uploading index.html.html…]()
+[index.html](https://github.com/user-attachments/files/33458671/index.html)
+
